@@ -54,3 +54,4 @@ compile_commands.json
 # Tests
 python/tests/__pycache__/
 python/*.dist-info/
+_build.*
